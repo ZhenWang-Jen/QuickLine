@@ -1,6 +1,7 @@
 # QuickLine
 A single-page application of entrepreneurial solution to dining during peak hours on ASU Tempe campus.  
 ## A preview version can be checked out here: https://zhenwang-jen.github.io/QuickLine/index.html
+### Notes: the connected database is not testable currently. Thanks for your understanding.
 
 ### Situation (S): 
 In the end week of CIS 430 class, I was asked to form a team of 4 members to solve an identified problem on ASU campus by using technologies that we were taught and present the prototype on the end day of the class. 

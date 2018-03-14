@@ -6,7 +6,7 @@ A single-page application of entrepreneurial solution to dining during peak hour
 ### Situation (S): 
 In the end week of CIS 430 class, I was asked to form a team of 4 members to identify a problem on ASU campus and solve it using technologies that we were taught and present the product on the end day of the class.
 ### Task (T): 
-Our goal was to decide a meaningful and scopable problem, then develop web pages to solve it well and get high grades on our project. 
+Our goal was to define a meaningful and scopable problem, and solve it well. 
 ### Action (A): 
 I convinced teammates of my brainstormed idea of solving dining issue during peak hours on ASU Tempe campus by conducting a quick survey in a 300-student class showing that 70% of them cared more about dinging than parking. Then, I assigned work to teammates based on their capabilities and preferences. I mainly worked on implementing the Google Map Api to calculate time for walking from user location to various restaurants and connecting our Single Page Application to the MySQL DB by studying online tutorials and asking professors. I also worked closely with teammates when combined and tested final work on Desktop, Android and iOS devices.
 ### Result (R):
